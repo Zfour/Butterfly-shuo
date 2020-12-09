@@ -1,24 +1,24 @@
 .cbp_tmlabel:after {
-   border-right-color: transparent!important;
+  border-right-color: transparent !important;
 }
+
 #artitalk_main .cbp_tmtimeline>li .cbp_tmlabel:after {
- border-right-color: transparent!important;
-
+  border-right-color: transparent !important;
 }
+
 #artitalk_main .cbp_tmtimeline>li .cbp_tmlabel {
-    margin: 0 0 30px 0 !important;
+  display: inline-block!important;
+  margin: 0 0 30px 0px !important;
+}
 
+.artitalk_avatar {
+  width: 40px;
+  height: 40px;
 }
-.artitalk_avatar{
-    display: none !important;
+span.shuoshuo_author_img {
+    display: none;
+}
 
-}
-.shuoshuo_time span{
-display:block;
-}
-.shuoshuo_time {
-padding-bottom:30px;
-}
-.power{
-display:none;	
+.power {
+  display: none;
 }
